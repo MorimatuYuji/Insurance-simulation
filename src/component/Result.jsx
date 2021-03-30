@@ -47,7 +47,7 @@ function Result(props) {
             </Grid>
 
             <div className="line-button">
-              <a href="https://lin.ee/xs4rLVz">
+              <a href="https://lin.ee/7waiVB0">
                 <img src={line} alt="line" width="55%" />
               </a>
             </div>
@@ -91,7 +91,7 @@ function Result(props) {
           </Grid>
 
           <div className="line-button">
-            <a href="https://lin.ee/xs4rLVz">
+            <a href="https://lin.ee/7waiVB0">
               <img src={line} alt="line" width="55%" />
             </a>
           </div>
