@@ -1,0 +1,234 @@
+.App {
+  text-align: center;
+  font-family: source-han-sans-japanese, sans-serif;
+}
+
+.question {
+  font-size: 17px;
+  font-family: source-han-sans-japanese, sans-serif;
+  font-weight: bold;
+  color: #6d6d6d;
+}
+
+/* Arrow and Progress 横並び && Center */
+.ArrowProgress {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  margin-right: 36px;
+}
+
+/* RadioButtons.jsx */
+.center {
+  text-align: center;
+}
+
+.buttons {
+  margin: 40px 0px;
+}
+
+/* Prefectures.jsx */
+.Prefectures-hidden {
+  display: none;
+}
+
+/* Facility.jsx */
+
+#Refrigerator {
+  display: none;
+}
+
+#Boiler {
+  display: none;
+}
+
+#Other {
+  display: none;
+}
+
+.Facility-btn {
+  display: none;
+}
+
+.Radio-font {
+  font-family: source-han-sans-japanese, sans-serif;
+}
+
+.space {
+  height: 50px;
+}
+
+.topmg {
+  margin-top: 30px;
+}
+
+.bottommg {
+  margin-bottom: 30px;
+}
+
+.dropdown {
+  margin-top: 24px;
+}
+
+.MuiBox-root-4 {
+  margin-left: 24px;
+}
+
+.next {
+  margin-top: 24px;
+}
+
+.question {
+  margin-top: 1rem;
+}
+
+.button {
+  width: 234px;
+  height: 55px;
+  /* codesandboxでは効かない時がある↓ */
+  outline: 0;
+}
+
+/* House.jsx */
+
+.House-top {
+  margin-top: 80px;
+}
+
+.House-hidden {
+  display: none;
+}
+
+/* Result.jsx */
+.Result-box {
+  text-align: center;
+  margin: 20px;
+}
+
+.title {
+  font-size: 24px;
+}
+
+#price {
+  font-size: 38px;
+  color: #007bff;
+  margin-top: 16px;
+  font-family: roboto, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.money-result {
+  font-family: source-han-sans-japanese, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  color: #464646;
+  font-size: 16px;
+}
+
+.result {
+  margin-top: 32px;
+}
+
+.topDiv {
+  border: #007bff 5px solid;
+  padding: 20px 0px;
+  border-radius: 17px;
+}
+
+/* result in bottomDiv */
+
+.bottomDiv {
+  margin-top: 24px;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+.result-font {
+  padding-top: 50px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.year1 {
+  font-size: 20px;
+  color: #fe8700;
+  font-family: roboto;
+}
+
+.year2 {
+  font-size: 26px;
+  color: #fe8700;
+  font-family: roboto;
+}
+
+.year3 {
+  font-size: 35px;
+  color: #fe8700;
+  font-family: roboto;
+}
+
+.year1mg {
+  margin-bottom: 16px;
+}
+
+.leftAlign {
+  text-align: left;
+  margin-left: 60px;
+  margin-top: 30px;
+}
+
+.exchange {
+  padding-top: 47px;
+}
+
+.Left-logo {
+  position: relative;
+}
+
+.logo-under {
+  font-size: 15px;
+  color: #fe8700;
+  position: absolute;
+  top: 65%;
+  left: 6%;
+}
+
+.line-text {
+  font-size: 20px;
+  color: #fe8700;
+}
+
+.line-text h5 {
+  margin: 15px 0px;
+}
+
+.push {
+  margin-top: 10px;
+}
+
+.line-button {
+  margin-top: 40px;
+}
+
+.YourInformation {
+  margin-top: 50px;
+  padding-bottom: 85px;
+  font-size: 12px;
+  font-family: source-han-sans-japanese, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.cta {
+  margin-top: 40px;
+  font-size: 18px;
+  color: #00b900;
+}
+
+.MuiPaper-root {
+  margin-bottom: 50px;
+}
