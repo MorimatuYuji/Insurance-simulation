@@ -3,7 +3,6 @@ import { makeStyles } from "@material-ui/core/styles";
 import Paper from "@material-ui/core/Paper";
 import line from "../images/linebtn2.png";
 import Grid from "@material-ui/core/Grid";
-import pushbutton from "../images/push-button.png";
 
 // Electrical-images
 

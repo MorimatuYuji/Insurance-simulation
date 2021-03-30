@@ -1,8 +1,6 @@
 import React from "react";
 import questions from "../questions";
 import { Button } from "react-bootstrap";
-import { AnimateOnChange } from "react-animation";
-import $ from "jquery";
 
 // images
 import Arrow from "../images/arrow.svg";
